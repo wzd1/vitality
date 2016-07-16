@@ -1,5 +1,7 @@
 body{
-	background: url(../img/bg.jpg) no-repeat;
+	background-image: url(../img/bg.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
 }
 .logo{
 	position: absolute;
